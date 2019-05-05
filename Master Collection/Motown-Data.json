@@ -1,0 +1,472 @@
+{
+  "IMSW": {
+    "mesostructure": "A B C D A B C A",
+    "root": "Eb",
+    "sections": {
+      "A": {
+        "0": "Abmaj7",
+        "960": "Ebmaj G",
+        "1920": "Fmin7",
+        "2880": "Cmin7 G",
+        "3840": "Abmaj7",
+        "4800": "Ebmaj G",
+        "5760": "Fmin7",
+        "6720": "Gmaj",
+        "8640": "Cmin",
+        "9120": "Gdom7",
+        "9600": "Abmaj7",
+        "10560": "Ebmaj G",
+        "11520": "Fmin7",
+        "12480": "Cmin7 G",
+        "13440": "Abmaj7",
+        "14400": "Ebmaj G",
+        "15360": "Fmin7",
+        "16320": "Gmaj",
+        "18240": "Cmin",
+        "18720": "Bbdom7",
+        "duration": 19200,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Ebmaj7",
+        "1920": "Abmaj7",
+        "3840": "Gmin7",
+        "5760": "Fmin7",
+        "6720": "Bbdom7sus4",
+        "7680": "Ebmaj",
+        "9600": "Abmaj7",
+        "11520": "Gmin7",
+        "13440": "Fmin7",
+        "14400": "Bbdom7sus4",
+        "15360": "Gmaj",
+        "16320": "Cmin",
+        "16800": "Bbdom7",
+        "duration": 17280,
+        "timesig": "4 4"
+      },
+      "C": {
+        "0": "Ebmaj7",
+        "960": "Cmin7",
+        "1920": "Ebmaj Bb",
+        "3840": "Ebmaj7",
+        "4800": "Abmaj7",
+        "5760": "Ebmaj",
+        "duration": 7680,
+        "timesig": "4 4"
+      },
+      "D": {
+        "0": "Abmaj7",
+        "960": "Ebmaj G",
+        "1920": "Fmin7",
+        "2880": "Cmin7 G",
+        "3840": "Fmin7",
+        "4800": "Ebmaj",
+        "5760": "Fmin7",
+        "6720": "Gmaj",
+        "7680": "Abmaj7",
+        "8640": "Ebmaj G",
+        "9600": "Fmin7",
+        "10560": "Cmin7 G",
+        "11520": "Fmin7",
+        "12480": "Ebmaj",
+        "13440": "Fmin7",
+        "14400": "Gmaj",
+        "16320": "Cmin",
+        "16800": "Bbdom7",
+        "duration": 17820,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "ISHTSGB": {
+    "mesostructure": "A B A B B B",
+    "root": "E",
+    "sections": {
+      "A": {
+        "0": "Emaj",
+        "1920": "Bsus4",
+        "2880": "Bmaj",
+        "3840": "Bmaj A",
+        "4320": "Amaj",
+        "4800": "F#min7 G#",
+        "5280": "Emaj G#",
+        "5760": "Emaj F#",
+        "6720": "F#min7",
+        "7680": "Amaj",
+        "8640": "Amaj6",
+        "9600": "Emaj",
+        "13440": "Bsus4",
+        "14400": "Bmaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Emaj",
+        "1920": "G#dom7",
+        "3840": "C#min",
+        "4800": "C#min B",
+        "5760": "Amaj6",
+        "6720": "Amin6",
+        "7680": "Emaj",
+        "9600": "Bsus4",
+        "11520": "Amaj6",
+        "12480": "Amin6",
+        "13440": "Emaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "LGS": {
+    "mesostructure": "A B A B C C D",
+    "root": "Bb",
+    "sections": {
+      "A": {
+        "0": "Bbmin11",
+        "1920": "Ebdom7sus4",
+        "3840": "Bbmin11",
+        "9600": "Ebdom7sus4",
+        "11520": "Bbmin11",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Ebmin7",
+        "480": "Dbmaj F",
+        "960": "Gbmaj",
+        "1440": "Gdim",
+        "1920": "Absus4",
+        "2880": "Abmaj",
+        "3840": "Ebmin7",
+        "4320": "Dbmaj F",
+        "4800": "Gbmaj",
+        "5280": "Gdim",
+        "5760": "Absus4",
+        "6720": "Fdom7 A",
+        "duration": 7680,
+        "timesig": "4 4"
+      },
+      "C": {
+        "0": "Ebmin",
+        "240": "Dbmaj",
+        "720": "Abmaj",
+        "1200": "Bbmin",
+        "1800": "Ebmin",
+        "2160": "Dbmaj",
+        "2640": "Abmaj",
+        "3120": "Bbmin",
+        "3720": "Ebmin",
+        "4320": "Dbmaj",
+        "4800": "Cmin7b5",
+        "5280": "Fdom7sus4",
+        "5760": "Bbmin",
+        "duration": 7680,
+        "timesig": "4 4"
+      },
+      "D": {
+        "0": "Cbmaj7",
+        "1920": "Bbmin7",
+        "3840": "Cbmaj7",
+        "5760": "Bbmin7",
+        "7680": "Cbmaj7",
+        "8640": "Bbmin7",
+        "9600": "Abmin7",
+        "11520": "Gbmaj7",
+        "14400": "Fdom7(#9)",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "ODIYL": {
+    "mesostructure": "A A B A C D",
+    "root": "E",
+    "sections": {
+      "A": {
+        "0": "Emaj",
+        "1920": "C#min7",
+        "3840": "D#min7",
+        "5760": "G#dom9",
+        "7680": "C#maj7",
+        "9600": "C#min7",
+        "11520": "F#min7",
+        "13440": "Bdom7sus4",
+        "14400": "Bdom9",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Emaj7",
+        "1920": "Amaj",
+        "3840": "Amin7",
+        "5760": "F#min7",
+        "6720": "Bdom7b5(b9)",
+        "7680": "Emaj7",
+        "9600": "C#min7",
+        "11520": "F#dom7sus4",
+        "12480": "F#dom7",
+        "13440": "Bdom9",
+        "14880": "Bdom7b5(b9)",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "C": {
+        "0": "Emaj7",
+        "1920": "Amaj",
+        "3840": "Dmaj",
+        "5760": "F#min7 B",
+        "6720": "Bdom7",
+        "duration": 7680,
+        "timesig": "4 4"
+      },
+      "D": {
+        "0": "Dbmaj7",
+        "1920": "Bbmin7",
+        "3840": "Cmin7",
+        "5760": "Fdom7sus4",
+        "6720": "Fdom7",
+        "7680": "Bbmaj7",
+        "9600": "Bbmin7",
+        "11520": "Ebmin",
+        "13440": "Ab7sus4",
+        "14400": "Abmaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "SROG": {
+    "mesostructure": "A B C",
+    "root": "G",
+    "sections": {
+      "A": {
+        "0": "Bmin",
+        "1920": "Gmaj",
+        "5760": "F#min",
+        "7680": "Amin",
+        "9600": "Fmaj7",
+        "10560": "Fmaj6",
+        "11520": "Bbmaj7",
+        "12480": "Ebmaj",
+        "13440": "Gmaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Emin",
+        "1920": "Amin7",
+        "2880": "Emin",
+        "5760": "Amin7",
+        "6720": "Emin",
+        "9600": "Amin7",
+        "10560": "Emin",
+        "13440": "Amin7",
+        "14400": "Emin",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "C": {
+        "0": "Amin",
+        "960": "Cmaj6",
+        "1920": "Gmaj",
+        "2880": "Bmaj",
+        "3840": "Amin",
+        "4800": "Cmaj",
+        "5760": "Gmaj",
+        "6720": "Bmaj",
+        "duration": 7680,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "SINTNOL": {
+    "mesostructure": "A B C A B C",
+    "root": "A",
+    "sections": {
+      "A": {
+        "0": "Cmaj",
+        "1920": "Cmaj7",
+        "3840": "Gmin",
+        "5760": "Adom7",
+        "7680": "Fmaj",
+        "9600": "Gmaj",
+        "11520": "Fmaj",
+        "13440": "Gmaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Cmaj",
+        "1920": "Gmaj B",
+        "3840": "Fmaj",
+        "7680": "Cmaj",
+        "8640": "Fmaj C",
+        "9600": "Cmaj",
+        "12480": "Fmaj C",
+        "13440": "Cmaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "C": {
+        "0": "Amin",
+        "1920": "Gmaj B",
+        "3840": "Fmaj",
+        "5760": "Gmaj",
+        "7680": "Amin",
+        "9600": "Gmaj B",
+        "11520": "Fmaj",
+        "13440": "Gmaj",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "TMGIR": {
+    "mesostructure": "B A B A B",
+    "root": "F",
+    "sections": {
+      "A": {
+        "0": "Gmin",
+        "480": "Amin",
+        "960": "Bbmaj",
+        "1440": "Amin",
+        "1680": "Gmin",
+        "4320": "Amin",
+        "4800": "Bbmaj",
+        "5280": "Amin",
+        "5720": "Gmin",
+        "8160": "Amin",
+        "8640": "Bbmaj",
+        "9120": "Amin",
+        "9360": "Gmin",
+        "12000": "Amin",
+        "12480": "Bbmaj",
+        "12960": "Amin",
+        "13200": "Gmin",
+        "13680": "Gmin9",
+        "duraiton": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Fmaj",
+        "3840": "Dmin7",
+        "7680": "Bbmaj",
+        "11520": "Cdom13 G",
+        "12240": "Cdom7 G",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "TMSG": {
+    "mesostructure": "A A A B C C",
+    "root": "G",
+    "sections": {
+      "A": {
+        "0": "Gmaj",
+        "480": "Fmaj",
+        "1440": "Emin",
+        "2400": "Dmin",
+        "3360": "Cmaj",
+        "4320": "Bbmaj",
+        "5280": "Amin",
+        "7680": "Fdom7",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "Amin",
+        "480": "Bmin",
+        "1440": "Cmaj",
+        "2400": "Cmaj C#",
+        "3360": "Cmaj D",
+        "4320": "Cmaj D#",
+        "5280": "Cmaj E",
+        "6240": "Cmaj F",
+        "6720": "Cmaj F#",
+        "7200": "Gmaj",
+        "duration": 7680,
+        "timesig": "4 4"
+      },
+      "C": {
+        "0": "Gmaj",
+        "1920": "Emin",
+        "3840": "Amin",
+        "5760": "Cmaj D",
+        "7680": "Gmaj",
+        "10080": "Emin",
+        "11520": "Amin",
+        "13440": "Cmaj D",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  },
+  "TTAL": {
+    "mesostructure": "A A B B C C",
+    "root": "Ab",
+    "sections": {
+      "A": {
+        "0": "Abmaj",
+        "1440": "Abmaj Gb",
+        "2880": "Fmin",
+        "4320": "Cdom7#5 E",
+        "5760": "Abmaj",
+        "7200": "Abmaj Gb",
+        "8640": "Fmin",
+        "10080": "Cdom7#5 E",
+        "duration": 11520,
+        "timesig": "3 4"
+      },
+      "B": {
+        "0": "Abmaj",
+        "1440": "Ebmaj G",
+        "2880": "Gbmaj",
+        "4320": "Dbmaj F",
+        "5760": "Bbmin7",
+        "7200": "Abmaj",
+        "8640": "Ebmaj",
+        "9240": "Ebmaj Db",
+        "10080": "Ebmaj C",
+        "10680": "Ebmaj Bb",
+        "duration": 11520,
+        "tiemsig": "3 4"
+      },
+      "C": {
+        "0": "Abmaj",
+        "1440": "Ebmaj Ab",
+        "2880": "Dbmaj Ab",
+        "4320": "Dbmaj Eb",
+        "5760": "Abmaj",
+        "7200": "Eb maj Ab",
+        "8640": "Dbmaj6 Ab",
+        "10080": "Dbmaj Eb",
+        "duration": 11520,
+        "timesig": "3 4"
+      }
+    }
+  },
+  "UTL": {
+    "mesostructure": "A B C A B C A A C",
+    "root": "D",
+    "sections": {
+      "A": {
+        "0": "Dmaj",
+        "1920": "Ddom7 C",
+        "3840": "Gmaj B",
+        "5520": "Gmin Bb",
+        "7680": "Dmaj A",
+        "9600": "Edom7 G#",
+        "11520": "Gmaj",
+        "13440": "Gmaj6",
+        "duration": 15360,
+        "timesig": "4 4"
+      },
+      "B": {
+        "0": "",
+        "duration": 15360,
+        "timesig": "4 4"
+      }
+    }
+  }
+}
